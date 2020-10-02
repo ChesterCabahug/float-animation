@@ -19,4 +19,5 @@ main {
     display: flex;
     justify-items: center;
     justify-content: space-between;
+    justify-self: center;
 }
