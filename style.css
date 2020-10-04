@@ -75,3 +75,14 @@ nav {
     height: 100%;
     transform: translateY(100%);
 }
+
+
+.hide {
+    background: black;
+    overflow: hidden;
+}
+
+.hide span {
+    transform: translateY(100%);
+    display: inline-block;
+}
